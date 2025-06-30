@@ -1,0 +1,15 @@
+{
+  "name": "John Doe",
+  "summary": "Experienced frontend developer...",
+  "education": [
+    "B.Tech - CSE, XYZ University"
+  ],
+  "experience": [
+    "Frontend Intern at ABC"
+  ],
+  "skills": [
+    "React",
+    "JavaScript",
+    "CSS"
+  ]
+}
